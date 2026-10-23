@@ -23,13 +23,3 @@ age = int(input("Enter your age: "))
 cgpa = float(input("Enter your CGPA: ")) #comment
 
 print(name, age, cgpa)  
-print("hello " + name + ", your age is " + str(age) + " and your CGPA is " + str(cgpa)) #concatention
-
-first_name = "Tony"
-last_name = "Stark"
-age = 53
-height = 1.85 
-
-superhero_name = input("Enter your superhero name: ")
-
-print("Hello " + first_name + " " + last_name + ", your age is " + str(age) + " and your height is " + str(height) + ". Your superhero name is " + superhero_name)
