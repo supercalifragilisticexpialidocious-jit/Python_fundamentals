@@ -20,3 +20,10 @@ b = int(input("Enter b: "))
 
 sum = a + b
 print("The sum of a and b is:", sum)
+
+#Data type conversion
+a = 10
+b = 20.5
+
+c = float(a) + b
+print(c)
